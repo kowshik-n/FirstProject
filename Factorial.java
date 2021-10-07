@@ -5,7 +5,7 @@ public class Factorial {
     public static void main(String[] args) {
 
         //5! = 5 * (4 * (3 * (2 * (1) = 120
-        System.out.println(factorial(5));
+        System.out.println(factorial(10));
     }
 
     public static int factorial(int n) {
