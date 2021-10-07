@@ -6,7 +6,9 @@ public class Factorial {
 
         //5! = 5 * (4 * (3 * (2 * (1) = 120
 
-       System.out.println(factorial(20));}
+       System.out.println(factorial(20));
+        System.out.println(" new branch switched");
+    }
 
     public static int factorial(int n) {
         if(n == 1) {
