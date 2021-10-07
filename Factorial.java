@@ -8,6 +8,7 @@ public class Factorial {
 
        System.out.println(factorial(20));
         System.out.println(" new branch switched");
+        System.out.println(" learn then earn")
     }
 
     public static int factorial(int n) {
